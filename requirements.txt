@@ -1,0 +1,10 @@
+scikit-image
+easydict
+PyYAML
+dominate
+dill
+tensorboardX
+scipy
+opencv-python
+einops
+matplotlib
